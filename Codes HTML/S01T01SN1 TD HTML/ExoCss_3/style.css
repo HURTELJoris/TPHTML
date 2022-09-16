@@ -1,0 +1,41 @@
+#Bandeau 
+{   
+    background-color:aqua;height : 10%;width: 100%;position: absolute;
+    font-size: 300% ;right: 0px; top: 0px; left: 0px;display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#MenuH
+{
+    background-color:#66CC33;top: 10%; height: 40%; position:fixed; 
+    left: 0px;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
+    align-items: center;
+    justify-content: center; width: 10%; float: left;
+}
+
+#MenuB
+{
+    background-color: #CC99CC ;top: 50%; position:fixed; 
+    left: 0px;right: 0px;height: 40%;font-size: 300%;  display: flex;
+    align-items: center;
+    justify-content: center; width: 10%;float: left;
+}
+
+
+#Contenu 
+{
+    background-color:yellow;top: 10%; position:fixed; 
+    left: 10%;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
+    align-items: center;
+    justify-content: center;float: left;
+}
+
+#Pieddepage 
+{
+    background-color:lightgreen;height : 10%; bottom: 0px; position: fixed;
+     left: 0px;right: 0px;font-size: 300%;display: flex;
+     align-items: center;
+     justify-content: center;
+}
