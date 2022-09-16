@@ -6,10 +6,22 @@
     justify-content: center;
 }
 
+
+#Menu
+{
+    background-color:palevioletred;top: 10%; position:fixed; 
+    left: 0px;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
+    align-items: center;
+    justify-content: center; width: 10%;
+}
+
+
+
+
 #Contenu 
 {
     background-color:yellow;top: 10%; position:fixed; 
-    left: 0px;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
+    left: 10%;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
     align-items: center;
     justify-content: center;
 }
