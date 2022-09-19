@@ -1,23 +1,28 @@
-#Bandeau 
-{   
-    background-color:aqua;height : 10%;width: 100%;position: absolute;
-    font-size: 300% ;right: 0px; top: 0px; left: 0px;display: flex;
+div 
+{
+    display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#Bandeau 
+{   
+    background-color:#00CCFF;
+    width:600px;
+	height:50px;
+    top: 0px;
 }
 
 #Contenu 
 {
-    background-color:yellow;top: 10%; position:fixed; 
-    left: 0px;right: 0px;bottom: 10%;font-size: 300%;  display: flex;
-    align-items: center;
-    justify-content: center;
+    background-color:#FFCC00;
+    width:600px;
+	height:400px;
 }
 
 #Pieddepage 
 {
-    background-color:lightgreen;height : 10%; bottom: 0px; position: fixed;
-     left: 0px;right: 0px;font-size: 300%;display: flex;
-     align-items: center;
-     justify-content: center;
+    background-color:#33FF99;
+    width:600px;
+	height:50px;
 }
