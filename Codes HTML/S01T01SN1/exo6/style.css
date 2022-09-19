@@ -1,0 +1,33 @@
+#tableau 
+{
+    
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+}
+
+form 
+{
+    
+    margin: 10px;
+
+}
+#contactChoice1 
+{
+    margin-left: 70px;
+}
+
+#nom 
+{
+    margin-left: 87px;
+}
+
+
+
+
+
+
+.bouton 
+{
+    margin-top: 10px;
+}
