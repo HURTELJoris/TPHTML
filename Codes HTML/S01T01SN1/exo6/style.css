@@ -4,30 +4,46 @@
     border-width:1px; 
     border-style:solid; 
     border-color:black;
+    width:max-content;
+}
+
+div 
+{
+    margin: 5px;
 }
 
 form 
 {
     
-    margin: 10px;
+    margin: 5px;
 
 }
 #contactChoice1 
 {
-    margin-left: 70px;
+    margin-left: 67px;
 }
 
 #nom 
 {
-    margin-left: 87px;
+    margin-left: 83px;
 }
 
-
-
-
-
-
-.bouton 
+#prenom 
 {
-    margin-top: 10px;
+    margin-left: 65px;
+}
+
+.tab
+{
+    margin-left: 132px;
+}
+
+#telephone 
+{
+    margin-left: 47px;
+}
+
+#email 
+{
+    margin-left: 76px;
 }
